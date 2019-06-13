@@ -44,7 +44,7 @@ body {
 #app {
   width: 900px;
   height: 700px;
-  background-color: lightseagreen;
+  background-color: rgb(172, 133, 169) !important;
   margin: 0 auto;
   display: flex;
   flex-direction: column;
@@ -67,7 +67,7 @@ body {
   justify-content: center;
   align-items: center;
   font-family: 'Itim', cursive;
-  background-color: #6AC0BD;
+  background-color: rgb(198, 155, 223);
   border: 2px solid #0F4442;
   margin-bottom: 30px;
 } 
